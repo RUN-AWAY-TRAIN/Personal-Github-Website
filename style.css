@@ -1,0 +1,62 @@
+
+
+/*-------------------------------------------*/
+/* Header Styles*/
+
+.headerH1{
+    text-align: left;
+}
+h1{
+    text-align: center;
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+    text-align: center;
+}
+
+/* Style for Navbar in Header */
+
+.headerNavbar ul{
+    list-style-type: none;
+    background-color: hsl(0, 0%, 25%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.headerNavbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.headerNavbar a:hover{
+    background-color: hsl(0, 0%, 16%);
+}
+.headerNavbar li{
+    float: left;
+}
+/* Style for Navbar in Footer */
+
+.footerNavbar ul{
+    list-style-type: none;
+    background-color: hsl(0, 0%, 25%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.footerNavbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.footerNavbar a:hover{
+    background-color: hsl(0, 0%, 16%);
+}
